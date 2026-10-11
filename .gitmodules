@@ -1,0 +1,4 @@
+[submodule "web-portfolio/themes/blowfish"]
+	path = web-portfolio/themes/blowfish
+	url = git@github.com:az299best/hugo-theme-blowfish.git
+	branch = main
