@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started
 
 theme = "blowfish"
-baseURL = "https://your_domain.com/"
+baseURL = "https://az299best.github.io/web-portfolio/"
 defaultContentLanguage = "en"
 
 pluralizeListTitles = true # исправлено: обычный пробел и без кавычек
