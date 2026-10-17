@@ -34,14 +34,14 @@ jobs:
       - name: Build
         run: hugo --minify --gc --cleanDestinationDir
 
+      # ... (все предыдущие шаги без изменений) ...
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./public
+          path: ./public # <-- ЭТО ОСТАВЛЯЕМ
 
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-        with:
-          # ЭТА СТРОКА РЕШАЕТ ПРОБЛЕМУ 404
-          path: ./public
+        # СТРОКУ path: ./public ЗДЕСЬ УДАЛЯЕМ ПОЛНОСТЬЮ
