@@ -3,6 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://az299best.github.io/web-portfolio/portfolio/os/</loc>
+    <lastmod>2026-10-17T12:00:00+03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://az299best.github.io/web-portfolio/</loc>
     <lastmod>2026-10-13T12:00:00+03:00</lastmod>
     <changefreq>daily</changefreq>
@@ -16,12 +22,6 @@
   </url>
   <url>
     <loc>https://az299best.github.io/web-portfolio/about/</loc>
-    <lastmod>2026-10-13T12:00:00+03:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://az299best.github.io/web-portfolio/portfolio/os/</loc>
     <lastmod>2026-10-13T12:00:00+03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

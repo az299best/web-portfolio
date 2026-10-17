@@ -1,0 +1,9 @@
+<a class="btn btn-primary" href="{{ .Get 0 | relURL }}">
+  <span>
+    <!-- Если задано имя кнопки -->
+    {{ with (.Get 1) }} {{ . }}
+    <!-- Иначе показываем иконку скачивания -->
+    {{ else }}
+    <i class="fa fa-download"></i> Скачать {{ end }}
+  </span>
+</a>
