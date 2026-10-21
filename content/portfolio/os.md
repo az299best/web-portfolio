@@ -9,4 +9,4 @@ resources:
 
 ## Скачать материалы
 
-[Скачать лабораторные работы](https://az299best.github.io/web-portfolio/os.zip)
+{{< resource src="https://az299best.github.io/web-portfolio/os.zip" name="Файлы лабораторных" title="Скачать ZIP" >}}
